@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure / Cloud Projects </b>
-  - [Creating a Live SOC / Honeypot in Azure](https://github.com/joshmadakor1/Cyber-Course/blob/main/README.md)
+  - [Creating a Live SOC / Honeypot in Azure](https://github.com/joshmadakor1/Cyber-Course/blob/main/README.md?plain=1)
 
 
 <h2> 🤳 Connect with me:</h2>
