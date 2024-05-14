@@ -4,6 +4,11 @@
 - <b>Azure / Cloud Projects </b>
   - [Creating a Live SOC / Honeypot in Azure](https://github.com/SreedharHothuru/Cloud-SOC-implementation/blob/main/README.md)
 
+<h2>👨‍💻 Python Projects:</h2>
+
+- <b>Web application </b>
+  - [Creating a simple web application using flask](https://github.com/users/SreedharHothuru/projects/2/views/1?pane=issue&itemId=62800473)
+
 
 <h2> 🤳 Connect with me:</h2>
 
