@@ -15,10 +15,10 @@
 [<img align="left" alt="SreedharHothuru | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://www.linkedin.com/in/sreedhar-hothuru-76762b267
+[linkedin]: https://www.linkedin.com/in/sreedhar-h-76762b267
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SreedharHothuru/sreedharhothuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
